@@ -11,22 +11,22 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/Suto.png", 
+    image: "assets/projects/Suto.png", 
     tags: [
       {
         id: 1,
         name: "HTML",
-        path: "/assets/logos/html5.svg",
+        path: "assets/logos/html5.svg",
       },
       {
         id: 2,
         name: "JavaScript",
-        path: "/assets/logos/javascript.svg",
+        path: "assets/logos/javascript.svg",
       },
       {
         id: 3,
         name: "Css",
-        path: "/assets/logos/css3.svg",
+        path: "assets/logos/css3.svg",
       },
     ],
   },
@@ -40,18 +40,18 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/portfolio.png",
+    image: "assets/projects/portfolio.png",
     tags: [
 
       {
         id: 2,
         name: "React",
-        path: "/assets/logos/react.svg",
+        path: "assets/logos/react.svg",
       },
       {
         id: 4,
         name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        path: "assets/logos/tailwindcss.svg",
       },
     ],
   },
@@ -62,17 +62,17 @@ export const mySocials = [
   {
     name: "WhatsApp",
     href: "",
-    icon: "/assets/socials/whatsApp.svg",
+    icon: "assets/socials/whatsApp.svg",
   },
   {
     name: "Linkedin",
     href: "https://www.linkedin.com/in/mayank-a2b016275/",
-    icon: "/assets/socials/linkedIn.svg",
+    icon: "assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
     href: "https://www.instagram.com/hey._.mayank/",
-    icon: "/assets/socials/instagram.svg",
+    icon: "assets/socials/instagram.svg",
   },
 ];
 export const certifications = [
