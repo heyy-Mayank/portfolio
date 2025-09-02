@@ -9,7 +9,7 @@ export const myProjects = [
     subDescription: [
       "Developed a responsive and visually appealing restaurant website named SUTO focused on enhancing user experience and showcasing menu offerings. Designed intuitive navigation, engaging UI elements, and clean layouts using modern front-end technologies. The project highlights attention to user interface design and a strong grasp of HTML, CSS, and JavaScript fundamentals. ",
     ],
-    href: "",
+    href: "https://heyy-mayank.github.io/Restaurant-code/",
     logo: "",
     image: "assets/projects/Suto.png", 
     tags: [
@@ -32,15 +32,15 @@ export const myProjects = [
   },
   {
     id: 2,
-    title: " Personal Portfolio – Website",
+    title: "Steganographically: Advanced Browser-Based Image Steganography Platfom",
     description:
-      "React • Vite • TailwindCSS • Three.js • React Three Fiber • Framer Motion • Aceternity UI • Magic UI • EmailJS",
+      "React • Vite • TailwindCSS • Image steganography algorithm",
     subDescription: [
-      "eveloped a modern, responsive portfolio website with interactive 3D elements using Three.js and React Three Fiber. Enhanced user engagement with smooth animations via Framer Motion and styl sh UI components from Aceternity and Magic UI. Integrated EmailJS for seamless form-based communication, and optimized performance using Vite",
+      "Engineered a modern, client-side steganography platform leveraging React, Vite, and Tailwind CSS, enabling seamless and secure embedding and extraction of encrypted messages within images directly in the browser. Utilized advanced JavaScript image processing and deployed the application via GitHub Pages for global accessibility, ensuring robust privacy and a frictionless user experience without any server dependencies.",
     ],
-    href: "",
+    href: "https://heyy-mayank.github.io/Steganographically/",
     logo: "",
-    image: "assets/projects/portfolio.png",
+    image: "assets/projects/stegno.png",
     tags: [
 
       {

@@ -19,12 +19,7 @@ const About = () => {
           <div className="z-10">
             <p className="headtext">Hi, I'm Mayank</p>
             <p className="subtext">
-              Highly dedicated and self-motivated student currently pursuing a Bachelorʼs degree in Computer Science and 
-              Engineering at Vellore Institute of Technology (VIT), Vellore. Known for a strong passion for learning and a 
-              resilient, growth-oriented mindset. Embrace challenges with positivity and a “never give up” attitude. 
-              Committed to personal and professional development with excellent time management, communication, and 
-              interpersonal skills. Thrive in collaborative environments and consistently strive to contribute meaningfully as 
-              part of a team.
+              Final-year Computer Science and Engineering student specializing in Information Security at Vellore Institute of Technology. Skilled in developing full-stack applications using the MERN stack, with a strong foundation in security principles including penetration testing, vulnerability analysis, and digital forensics. Seeking an entry-level role as a Software Engineer, Security Analyst, or Full Stack Developer that leverages my technical expertise while providing mentorship opportunities to foster continuous learning and professional growth.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
@@ -105,12 +100,12 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headText">Skills</p>
             <p className="subtext">
-              <strong>Core Stack:</strong> JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS.<br />
-              <strong>Languages:</strong> C, C++, Python, HTML, CSS.<br />
+              <strong>Core Stack:</strong> JavaScript, React, Node.js, Express, MongoDB.<br />
+              <strong>Languages:</strong> C, C++, Python, HTML5, CSS3.<br />
               <strong>Operating Systems:</strong> Windows, Linux.<br />
-              <strong>Core Subjects:</strong> Computer Networks, Computer Architecture, Operating Systems, Data Structures and Algorithms, Software Engineering, DBMS, OOP Concepts, Digital Forensics, Web Application Security, Information Security, Penetration Testing.<br />
+              <strong>Core Subjects:</strong> Computer Networks, Computer Architecture, Operating Systems, Data Structures and Algorithms, Software Engineering, DBMS, OOP Concepts, Digital Forensics, Information Security, Penetration Testing.<br />
               <strong>Developer Tools:</strong> Git/GitHub, VS Code, Microsoft Excel, PowerPoint.<br />
-              <strong>Frameworks & Databases:</strong> MongoDB, Express.js, React.js, Node.js, SQL, MySQL.<br />
+              <strong>Frameworks & Databases:</strong> MongoDB, Express.js, React.js, Node.js, MySQL.<br />
             </p>
           </div>
           <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
